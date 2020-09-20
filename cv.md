@@ -3,10 +3,13 @@
     Emails: 
       - balguzhin.temirlan@bk.ru
       - balguzintemirlan@gmail.com
+      
     Telegram: 
       - @TemirWlan
+      
     VK:
       - https://vk.com/temirlan_balguzhin
+      
     Instagram:
       - https://www.instagram.com/temirlanbalguzhin/
       
